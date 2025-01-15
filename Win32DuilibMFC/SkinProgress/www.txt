@@ -1,0 +1,4 @@
+https://github.com/Kochise/win32-SkinProgress
+
+This code is from my original article :
+https://www.codeproject.com/Articles/4204/CSkinProgress
