@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿//一种清除windows通知区域“僵尸”图标的方案——XP系统解决方案   https://cloud.tencent.com/developer/article/1383628
+//C/C++ 遍历任务栏托盘图标 https://cloud.tencent.com.cn/developer/article/2201903   https://blog.csdn.net/fxy0325/article/details/84664527
+
+
+
+#include <iostream>
 #include <windows.h>
 #include <string>
 #include <commctrl.h>
